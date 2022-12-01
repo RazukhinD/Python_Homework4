@@ -33,5 +33,5 @@ def create_mnogochlen(size):
     else:
        return print(mnogochlen+'= 0')
 
-test=create_mnogochlen(size)
+mnogochlen=create_mnogochlen(size)
 
